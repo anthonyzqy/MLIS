@@ -5,7 +5,7 @@ Edit these lines according to your need
 ***/
 //{{{
 $AUTHENTICATE_USER = false;	// true | false
-$USERS = array('anthony'=>'qassaq01599510'); // set usernames and strong passwords
+$USERS = array('anthony'=>'123'); // set usernames and strong passwords
 $DEBUG = false;				// true | false
 $CLEAN_BACKUP = true; 		// during backuping a file, remove overmuch backups
 $FOLD_JS = true; 			// if javascript files have been expanded during download the fold them
